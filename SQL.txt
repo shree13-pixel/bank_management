@@ -1,0 +1,9 @@
+// create table login(Form_No varchar(20) Primary key, Card_No varchar(25) not null, pin varchar(20) not null);
+
+// create table bank (PIN varchar(40) not null, Date varchar(100) not null, Type varchar(30) not null, Amount varchar(20) not null);
+
+// create table signup(Form_No varchar(20) Primary Key NOT NULL,  Name varchar(50) NOT NULL, Father_Name varchar(50) NOT NULL, Date_Of_Birth varchar(30) Not null, Gender varchar(20) NOT NULL, Email varchar(40) Not null, Marital_Status varchar(20) Not null, Address varchar(200) Not null, City varchar(30) Not null, State Varchar(30) Not null, PIN_Code varchar(30) not null);
+
+// create table signup2 (Form_NO varchar(30) Primary Key Not null, Religion varchar(30) Not null, Category varchar(30) Not null, Income varchar(30) Not null, Qualification varchar(30) Not null, Occupation varchar(30) Not null, PAN_Card_No varchar(30) Not null, Aadhar_Card_No varchar(30) Not null, Senior_Citizen varchar(30) Not null, Existing_Account varchar(30) Not null);
+
+// create table signup3(Form_NO varchar(30) Primary Key, Account_Type varchar(40) Not null, Card_NO varchar(40) Not null, PIN varchar(20) Not null, Facility varchar(150) not null);
